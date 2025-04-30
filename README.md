@@ -85,4 +85,5 @@ If you'd like a similar automation tailored to your business needs,
 
 ## 📷 Screenshots
 
+![Workflow Screenshot](https://github.com/Umergul/customer-feedback-ai-agent-n8n/blob/98a2ffbcc20f778ffe69719ea4da39de7ba43b7c/assets/Customer%20Feedback%20Agent.JPG)
 
