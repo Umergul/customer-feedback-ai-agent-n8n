@@ -75,7 +75,7 @@ flowchart TD
 ## 📬 Want This Built For You?
 
 If you'd like a similar automation tailored to your business needs,   
-🌐 [Connect on LinkedIn](www.linkedin.com/in/m-umar-7172602g)
+🌐 [Connect on LinkedIn](https://www.linkedin.com/in/umar-gul-6a5082203/)
 
 ---
 
